@@ -1,6 +1,8 @@
 # flutter_ethereum_sample
 
-Simple demonstration of ethereum smart contracts with the web3dart package in flutter
+Simple demonstration of ethereum smart contracts with the web3dart package in Flutter.
+Read: https://medium.com/@dev_89267/develop-blockchain-applications-with-flutter-ethereum-59e846944127 for more information.
+Thank you very much!
 
 ## Getting Started
 
